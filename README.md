@@ -5,8 +5,8 @@ Pokemon True Color is a Python script to visualize random pokemon in terminal.
 ## Requirements
 
 1. Internet connection
-2. Terminal with true color support
-   > Check [this post](https://gist.github.com/XVilka/8346728#now-supporting-truecolor) to know more about True color in terminal.
+2. Terminal with truecolor support
+   > Check [this post](https://gist.github.com/XVilka/8346728#now-supporting-truecolor) to know more about truecolor in terminal.
 
 ## How to Use
 
@@ -24,7 +24,7 @@ Pokemon True Color is a Python script to visualize random pokemon in terminal.
 
 ## API Source
 
-This project uses Python 3 wrapper [pokebase](https://github.com/PokeAPI/pokebase) to load data from [PokéAPI database](https://pokeapi.co/).
+This project uses Python 3 wrapper [pokebase](https://github.com/PokeAPI/pokebase) to load data from the [PokéAPI database](https://pokeapi.co/).
 
 ## Contribution
 
